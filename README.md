@@ -1,3 +1,3 @@
 # firsttime
 firstday
-this is the first day to use Github!
+this is the first day to use Github
